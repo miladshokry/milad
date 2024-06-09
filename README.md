@@ -1,7 +1,7 @@
 # ماشین حساب
 یک برنامه ماشین حساب که توسط زبان پایتون ساخته شده است.
 
-![97f71720-2094-11ef-a09f-fb825bc2e651](https://github.com/miladshokry/milad/assets/166940491/5868f125-31e8-4427-bb85-ea4a45d289bb)
+![1110176-ماشین-حساب-و-نمودار](https://github.com/miladshokry/milad/assets/166940491/ef341a54-250d-48bf-91fb-521486e4b429)
 
 
 ## ماشین حساب چیست ؟
